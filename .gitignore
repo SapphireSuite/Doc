@@ -1,0 +1,6 @@
+# Local repository config file.
+doxygen.config
+
+# Documentation generated files
+html/
+latex/
